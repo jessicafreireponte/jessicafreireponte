@@ -22,20 +22,20 @@
 <h3 align="left">Programas:</h3>
 <p align="left"> 
  <ul><h3>FRONT-END</h3>
-  <li><h5>HTML5</h5>
+  <li><p>HTML5</p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/>
   </li>
-  <li><h5>CC3</h5>
+  <li><p>CC3</p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="40" height="40"/> 
-  </li><h5>JS</h5>
+  </li><p>JS</p>
   <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <li><h5>MATERIALIZE</h5>
+    <li><p>MATERIALIZE</p>
 <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167740a9/svg/materialize.svg" alt="materialize" width= "40" height="40"/> 
   </li>
-  <li><h5>REACT</h5>
+  <li><p>REACT</p>
    <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </li>
-  <li><h5>TYPESRCIPT</h5>
+  <li><p>TYPESRCIPT</p>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </li>
 
