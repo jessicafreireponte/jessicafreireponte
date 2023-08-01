@@ -1,8 +1,7 @@
 <h1 align="center" color="#7854db">¡Buenas 👋!, Soy Jessica Freire</h1>
 <h3 align="center">Desarrollo web - Desarrollador Web Frontend 👨‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jessicafreireponte&label=Profile%20views&color=0e75b6&style=flat" alt="jessicafreireponte" /> </p>
-![Proyecto nuevo (2)](https://github.com/jessicafreireponte/jessicafreireponte/assets/124464829/89db8602-f4d5-4053-82e7-22b1d00392c1)
+<img src="https://drive.google.com/file/d/1ho84CEHwJ7m8AHXRvvh8YVtKFi998Kqi/view?usp=drive_link" alt="banner"/>
 
 - 🌱 Actualmente estoy estudiando **TypeScript**
 
