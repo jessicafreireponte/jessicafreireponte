@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/120px-Expressjs.png" alt="express "  height="40"/> 
  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/64px-Figma-logo.svg.png" alt="figma" ancho="40" altura="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/64px-Figma-logo.svg.png" alt="figma"  altura="40"/>
 
 <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="enmarcador" ancho="40" altura="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
