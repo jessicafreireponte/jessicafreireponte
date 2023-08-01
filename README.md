@@ -12,30 +12,30 @@
 - ⚡ Algo gracioso sobre mí... Soy como una ardilla, pequeña y trabajadora
 
 
-<p align="left">
+<p align="center">
+ Puedes saber más de mí, cliclando en:  
 <a href="https://linkedin.com/in/jessicafreireponte" >
  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/200px-LinkedIn_2021.svg.png" alt="jessica freire ponte" height="30"/> 
 </a>
 </p>
 
-<h3 align="left">Idiomas y herramientas:</h3>
+<h3 align="left">Programas:</h3>
 <p align="left"> 
  <ul><h3>FRONT-END</h3>
   <li><h5>HTML5</h5>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/>
   </li>
-  <li>CC3
+  <li><h5>CC3</h5>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="40" height="40"/> 
-  </li>JS
+  </li><h5>JS</h5>
   <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <li>MATERIALIZE
+    <li><h5>MATERIALIZE</h5>
 <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167740a9/svg/materialize.svg" alt="materialize" width= "40" height="40"/> 
   </li>
-  <li>REACT - REACT NATIVE
+  <li><h5>REACT</h5>
    <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   </li>
-  <li>TYPESRCIPT
+  <li><h5>TYPESRCIPT</h5>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </li>
 
