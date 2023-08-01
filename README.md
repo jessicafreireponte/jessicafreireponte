@@ -1,14 +1,13 @@
 <h1 align="center">Buenas 👋!, Soy Jessica Freire</h1>
 <h3 align="center">Desarrollo web - Frontend Web Developer 👨‍💻</h3>
 
-- 🌱 Actualmente estoy estudiando **Mecanografiado**
+- 🌱 Actualmente estoy estudiando **Typescript**📖
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jessica freire ponte" target="blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/150px-LinkedIn_Logo_2013_%282%29.svg.png" alt="logo LinkedIn"/>
 </a>
-
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
