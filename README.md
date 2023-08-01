@@ -20,8 +20,8 @@
 
 <h3 align="left">Idiomas y herramientas:</h3>
 <p align="left"> 
- <ul>FRONT-END
-  <li>HTML5
+ <ul><h3>FRONT-END</h3>
+  <li><h5>HTML5</h5>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/>
   </li>
   <li>CC3
