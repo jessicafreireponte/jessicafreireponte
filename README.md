@@ -2,7 +2,7 @@
 <img src="https://github.com/jessicafreireponte/jessicafreireponte/blob/fd69178e6fb8569554dde9bd453e43c421ae427e/1690886612762.jpg"/>
 <h1 align="center" color="#7854db">¡Buenas 👋!, Soy Jessica Freire</h1>
 <h3 align="center">Desarrollo web - Desarrollador Web Frontend 👨‍💻</h3>
-<hr></hr>
+<hr/>
 
 - 🌱 Actualmente estoy estudiando **TypeScript**
 
