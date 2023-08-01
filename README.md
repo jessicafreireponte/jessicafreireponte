@@ -71,7 +71,7 @@
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height= "40"/>
   </li>
   <li><p>PHOTOSHOP</p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/ iconos/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/120px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
   </li>
 
  </ul>
@@ -81,7 +81,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </li>
    <li><p>WINDOWS</p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/250px-Windows_logo_and_wordmark_-_2021.svg.png" alt="WINDOWS" width="40" height= "40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/250px-Windows_logo_and_wordmark_-_2021.svg.png" alt="WINDOWS" width="40" />
    </li>
  </ul>
 
