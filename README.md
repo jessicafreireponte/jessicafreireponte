@@ -1,4 +1,4 @@
-<h1 align="center">¡Buenas 👋!, Soy Jessica Freire</h1>
+<h1 align="center" color="#7854db">¡Buenas 👋!, Soy Jessica Freire</h1>
 <h3 align="center">Desarrollo web - Desarrollador Web Frontend 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessicafreireponte&label=Profile%20views&color=0e75b6&style=flat" alt="jessicafreireponte" /> </p>
