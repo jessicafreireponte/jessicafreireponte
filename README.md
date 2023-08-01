@@ -14,7 +14,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/jessicafreireponte" >
- <img align="center" src="[[https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.sv](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/150px-LinkedIn_Logo_2013_%282%29.svg.png)g](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/150px-LinkedIn_Logo_2013_%282%29.svg.png)" alt="jessica freire ponte" height="30"/> 
+ <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/200px-LinkedIn_2021.svg.png" alt="jessica freire ponte" height="30"/> 
 </a>
 </p>
 
