@@ -1,7 +1,7 @@
 <h1 align="center" color="#7854db">¡Buenas 👋!, Soy Jessica Freire</h1>
-
+<img src="https://github.com/jessicafreireponte/jessicafreireponte/blob/fd69178e6fb8569554dde9bd453e43c421ae427e/1690886612762.jpg"/>
 <h3 align="center">Desarrollo web - Desarrollador Web Frontend 👨‍💻</h3>
-![1690886612762](https://github.com/jessicafreireponte/jessicafreireponte/assets/124464829/254f025e-3b9d-4c58-b261-c454c6421de3)
+
 
 - 🌱 Actualmente estoy estudiando **TypeScript**
 
