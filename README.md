@@ -28,9 +28,9 @@
   <li><p>CC3</p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="40" height="40"/> 
   </li><p>JS</p>
-  <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/320px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>
     <li><p>MATERIALIZE</p>
-<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167740a9/svg/materialize.svg" alt="materialize" width= "40" height="40"/> 
+<img src="https://www.geekandjob.com/uploads/wiki/956d3552aeed5764da2dbd657398f6a796686d6b.png" alt="materialize" width= "40" height="40"/> 
   </li>
   <li><p>REACT</p>
    <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
