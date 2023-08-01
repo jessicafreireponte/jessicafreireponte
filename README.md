@@ -2,6 +2,7 @@
 <h3 align="center">Desarrollo web - Desarrollador Web Frontend 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessicafreireponte&label=Profile%20views&color=0e75b6&style=flat" alt="jessicafreireponte" /> </p>
+![Proyecto nuevo (2)](https://github.com/jessicafreireponte/jessicafreireponte/assets/124464829/89db8602-f4d5-4053-82e7-22b1d00392c1)
 
 - 🌱 Actualmente estoy estudiando **TypeScript**
 
