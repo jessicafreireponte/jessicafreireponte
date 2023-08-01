@@ -1,8 +1,7 @@
 
-<img src="https://github.com/jessicafreireponte/jessicafreireponte/blob/fd69178e6fb8569554dde9bd453e43c421ae427e/1690886612762.jpg"/>
 <h1 align="center" color="#7854db">¡Buenas 👋!, Soy Jessica Freire</h1>
+<img src="https://github.com/jessicafreireponte/jessicafreireponte/blob/fd69178e6fb8569554dde9bd453e43c421ae427e/1690886612762.jpg"/>
 <h3 align="center">Desarrollo web - Desarrollador Web Frontend 👨‍💻</h3>
-<hr/>
 
 - 🌱 Actualmente estoy estudiando **TypeScript**
 
@@ -13,13 +12,14 @@
 - ⚡ Algo gracioso sobre mí... Soy como una ardilla, pequeña y trabajadora
 
 
+<hr/>
 <p align="center">
 <strong> Puedes saber más de mí, cliclando en:  </strong>
 <a href="https://linkedin.com/in/jessicafreireponte" >
  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/200px-LinkedIn_2021.svg.png" alt="jessica freire ponte" height="30"/> 
 </a>
 </p>
-
+<hr/>
 <h3 align="left">Programas:</h3>
 <p align="left"> 
  <ul><h3>FRONT-END</h3>
