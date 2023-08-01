@@ -40,23 +40,48 @@
   </li>
 
  </ul>
+  <ul><h3>BACK-END</h3>
+  <li><p>EXPRESS</p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/120px-Expressjs.png" alt="express "  height="40"/> 
- 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/64px-Figma-logo.svg.png" alt="figma"  altura="40"/>
+  </li>
+  <li><p>NODE.JS</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/200px-Node.js_logo.svg.png" alt="NODE "  height="40"/> 
+  </li><p>MYSQL</p>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/100px-MySQL_logo.svg.png" alt="MYSQL"  height="40"/> 
+  </li>
+  </ul>
 
-<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="enmarcador" ancho="40" altura="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
- 
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height= "40"/>
+ </ul>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-
-<img src="https:// raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/ iconos/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  </ul>
+  <ul><h3>OTROS PROGRMAS</h3>
+  <li><p>FIGMA</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/64px-Figma-logo.svg.png" alt="figma"  height="40"/>
+  </li>
+   <li><p>POSTMAN</p>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cartero" width="40" height= "40"/>
+   </li>
+  <li><p>FRAMER</p>
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="FRAMER" height="40"/>
+  </li>
+  <li><p>GIT</p>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </li>
+  <li><p>ILLUSTRATOR</p>
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height= "40"/>
+  </li>
+  <li><p>PHOTOSHOP</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/ iconos/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  </li>
 
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon. svg" alt="unity" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt=" irreal" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd"  width="40" height="40"/> 
+ </ul>
+
+   <ul><h3>SISTEMAS OPERATIVOS</h3>
+  <li><p>LINUX</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </li>
+   <li><p>WINDOWS</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/250px-Windows_logo_and_wordmark_-_2021.svg.png" alt="WINDOWS" width="40" height= "40"/>
+   </li>
+ </ul>
 
