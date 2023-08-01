@@ -7,13 +7,13 @@
 
 - 📫 ¿Cómo contactarme? **jessicafreireponte@gmail.com**
 
-- 📄 Puedes saber más de mí en mi currículum -> <a href="https://drive.google.com/file/d/1r2jYm5mv2iCdpuCEjMm9reqFBzmSQyqB/view?usp=drive_link">LinkedIn</a>
+- 📄 Puedes saber más de mí en mi currículum -> <a href="https://drive.google.com/file/d/1r2jYm5mv2iCdpuCEjMm9reqFBzmSQyqB/view?usp=drive_link">CV</a>
 
 - ⚡ Algo gracioso sobre mí... Soy como una ardilla, pequeña y trabajadora
 
 
 <p align="center">
- Puedes saber más de mí, cliclando en:  
+<strong> Puedes saber más de mí, cliclando en:  </strong>
 <a href="https://linkedin.com/in/jessicafreireponte" >
  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/200px-LinkedIn_2021.svg.png" alt="jessica freire ponte" height="30"/> 
 </a>
