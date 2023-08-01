@@ -3,17 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessicafreireponte&label=Profile%20views&color=0e75b6&style=flat" alt="jessicafreireponte" /> </p>
 
-- 🌱 Actualmente estoy estudiando **Mecanografiado**
+- 🌱 Actualmente estoy estudiando **TypeScript**
 
-- 📫 ¿ ¿Cómo contactarme? **jessicafreireponte@gmail.com**
+- 📫 ¿Cómo contactarme? **jessicafreireponte@gmail.com**
 
-- 📄 Puedes saber más de mí en mi currículum -> [https://drive.google.com/file/d/1r2jYm5mv2iCdpuCEjMm9reqFBzmSQyqB/view?usp=drive_link](https://drive .google.com/file/d/1r2jYm5mv2iCdpuCEjMm9reqFBzmSQyqB/view?usp=drive_link)
+- 📄 Puedes saber más de mí en mi currículum -> <a href="https://drive.google.com/file/d/1r2jYm5mv2iCdpuCEjMm9reqFBzmSQyqB/view?usp=drive_link">LinkedIn</a>
 
-- ⚡ Algo gracioso sobre mí... **Soy como una ardilla,
+- ⚡ Algo gracioso sobre mí... Soy como una ardilla, pequeña y trabajadora
 
 
 <p align="left">
-<a href="https://linkedin.com/in/jessica freire ponte" target="blank"><img align="center" src="https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jessica freire ponte" height="30" width="40" /> </a>
+<a href="https://linkedin.com/in/jessica freire ponte" target="blank">
+  <img align="center" src="[[https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.sv](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/150px-LinkedIn_Logo_2013_%282%29.svg.png)g](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/150px-LinkedIn_Logo_2013_%282%29.svg.png)" alt="jessica freire ponte" height="30" width="40" /> 
+</a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
