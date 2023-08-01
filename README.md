@@ -5,7 +5,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jessica freire ponte" target="blank">< img align="center" src="https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bp2Ew2p5hS5OpsCMeJbu2aQ%3D%3D" alt=" jessica freire ponte" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jessica freire ponte" target="blank">< img align="center" src="[https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bp2Ew2p5hS5OpsCMeJbu2aQ%3D%3D](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/150px-LinkedIn_Logo_2013_%282%29.svg.png)" alt=" jessica freire ponte" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
