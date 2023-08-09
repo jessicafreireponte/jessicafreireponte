@@ -20,6 +20,20 @@
 </a>
 </p>
 <hr/>
+<ul>¿Quieres ver mis mejores proyectos? Te dejo los links:
+ <li>
+  <h6>Clon de Instagram (front-end)- InstaClone!</h6> <a href="https://github.com/Manuel080696/FrontEndInstaClone">Ven a verme!</a>
+ </li>
+ <li>
+  <h6>Clon de Instagram (back-end)- InstaClone!</h6> <a href="https://github.com/Manuel080696/PROYECTO_HACKABOSS_CLON_INSTAGRAM">Ven a verme!</a>
+ </li>
+ <li>
+  <h6>Ahorcado Juego con JavaScript</h6> <a href="https://github.com/Manuel080696/HACKABOSS-Ahorcado">Ven a verme!</a>
+ </li>
+</ul>
+<hr/>
+
+
 <h3 align="left">Programas:</h3>
 <p align="left"> 
  <ul><h3>FRONT-END</h3>
